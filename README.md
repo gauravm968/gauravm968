@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Gaurav
-🔭 I’m currently working on MERN Stack Projects<br>🌱 I’m continuously learning new languages, frameworks, and technologies.<br>📫 How to reach me: gauravmahour968@gmail.com<br>
+🔭 I’m currently working on MERN Stack Projects<br>🌱 I’m full of curiosity and always eager to learn something new.<br>📫 How to reach me: gauravmahour968@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravm968) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gauravm_968) 
