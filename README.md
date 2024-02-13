@@ -1,5 +1,13 @@
+<div align='center'>
 
-# Hi 👋, I'm Gaurav
+Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Gaurav Mahor
+=======================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=00AEF0&center=true&vCenter=true&width=450&lines=Nice+to+Meet+You;Full+Stack+Web+Developer;Passionate+Learner)](https://git.io/typing-svg)
+-----------------------
+
+</div>
+
+### About Me:
 🔭 I’m currently working on MERN and SpringBoot Projects,<br>🌱 I’m full of curiosity and always eager to learn something new.<br>📫 How to reach me: gauravmahour968@gmail.com<br>
 
 ## 🌐 Socials:
@@ -13,5 +21,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravm968&theme=tokyonight&hide_border=false)<br/>  -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravm968&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravm968&label=Profile%20views&color=0e75b6&style=flat" alt="gauravm968" /> </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=gauravm968&label=Profile%20views&color=0e75b6&style=flat" alt="gauravm968" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
