@@ -8,7 +8,7 @@ Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 </div>
 
 ### About Me:
-🔭 I’m currently working on MERN and SpringBoot Projects,<br>🌱 I’m full of curiosity and always eager to learn something new.<br>📫 How to reach me: gauravmahour968@gmail.com<br>
+🔭 I'm currently working on MERN and SpringBoot Projects,<br>🌱 I'm always exploring new technologies to enhance my skills and expertise.<br>✉️ How to reach me: gauravmahour968@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravm968) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gauravm_968) 
